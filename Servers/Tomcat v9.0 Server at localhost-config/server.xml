@@ -149,7 +149,7 @@
              Note: The pattern used is equivalent to using pattern="common" -->
         <Valve className="org.apache.catalina.valves.AccessLogValve" directory="logs" pattern="%h %l %u %t &quot;%r&quot; %s %b" prefix="localhost_access_log" suffix=".txt"/>
 
-      <Context docBase="03-Config and Test Server" path="/03-Config and Test Server" reloadable="true" source="org.eclipse.jst.jee.server:03-Config and Test Server"/><Context docBase="04-Basic Servlet And HelloWorld App" path="/04-Basic_Servlet_And_HelloWorld_App" reloadable="true" source="org.eclipse.jst.jee.server:04-Basic Servlet And HelloWorld App"/><Context docBase="05-Servlet Request" path="/05-Servlet_Request" reloadable="true" source="org.eclipse.jst.jee.server:05-Servlet Request"/><Context docBase="07-SimpleProject" path="/07-SimpleProject" reloadable="true" source="org.eclipse.jst.jee.server:07-SimpleProject"/></Host>
+      <Context docBase="03-Config and Test Server" path="/03-Config and Test Server" reloadable="true" source="org.eclipse.jst.jee.server:03-Config and Test Server"/><Context docBase="04-Basic Servlet And HelloWorld App" path="/04-Basic_Servlet_And_HelloWorld_App" reloadable="true" source="org.eclipse.jst.jee.server:04-Basic Servlet And HelloWorld App"/><Context docBase="05-Servlet Request" path="/05-Servlet_Request" reloadable="true" source="org.eclipse.jst.jee.server:05-Servlet Request"/><Context docBase="07-SimpleProject" path="/07-SimpleProject" reloadable="true" source="org.eclipse.jst.jee.server:07-SimpleProject"/><Context docBase="Practice" path="/Practice" reloadable="true" source="org.eclipse.jst.jee.server:Practice"/></Host>
     </Engine>
   </Service>
 </Server>

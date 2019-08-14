@@ -47,6 +47,10 @@ Client muốn yêu cầu một thứ gì đó thì phải gửi Request tới Se
 - [x] Khó khăn trong việc chèn CSS code vào. Nếu ta sử dụng Bootstrap thì toang luôn
 - [x] Những khó khăn này dẫn đến sự ra đời của JSP
 
+## Practice Section
+- [x] Simple Calculator (Add only)    
+![](https://giphy.com/gifs/hs7oQFhNYPuUFsWDIQ)
+
 
 
 
