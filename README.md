@@ -1,4 +1,4 @@
-# Java Servlt - JSP Tutorial
+# Java Servlet - JSP Tutorial
 
 ## Giới thiệu mô hình Client - Server
 ![](https://www.w3schools.in/wp-content/uploads/2019/01/client-server.jpg)    
