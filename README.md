@@ -1,7 +1,7 @@
 # Java Servlt - JSP Tutorial
 
 ## Giới thiệu mô hình Client - Server
-![](https://www.w3schools.in/wp-content/uploads/2019/01/client-server.jpg)
+![](https://www.w3schools.in/wp-content/uploads/2019/01/client-server.jpg)    
 Client muốn yêu cầu một thứ gì đó thì phải gửi Request tới Server, Server sau khi nhận Request thì sẽ gửi phản hồi Response lại cho Client
 
 
