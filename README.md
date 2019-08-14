@@ -30,6 +30,23 @@ Client muốn yêu cầu một thứ gì đó thì phải gửi Request tới Se
 ## 🌞 Request Param
 - [x] Request Param là thông tin mà người dùng nhập vào, thông tin này sẽ được gửi lên server để server xử lý
 
+## 🌞 Tổng quan về Java Servlet
+- [x] Servlet là một công nghệ dùng để lập trình Web để xử lý phía Server Side
+## 🌞 doGet() vs doPost()
+- [x] Tham Số : doGet() tham số được gán trong URL, doPost() tham số được gán trong phần thân
+- [x] Kích thước dữ liệu : doGet() 240bytes, doPost() không giới hạn kích thước
+- [x] Tham số : doGet() không được mã hóa, doPost() được mã hóa
+- [x] Use : doGet() được dùng đa phần trong việc truy vấn hoặc lấy dữ liệu từ Server, doPost() được dùng đa phần trong việc update hoặc là post thông tin tới Server
+- [x] Tốc độ : doGet() xử lý nhanh hơn doPost()
+- [x] Bảo mật : doGet() cần được bảo mật, doPost() không cần bảo mật
+
+## 😡 Nhược điểm của Servlet
+- [x] Phải cấu hình rất là nhiều, từ phiên bản 3.0 Servlet hỗ trợ annotation nhưng vẫn còn phải cấu hình
+- [x] Mỗi lần thay đổi Source code thì phải restart, recompile lại. Nếu dự án nhỏ thì không sao, nhưng nếu gặp dự án lớn thì rất bất lợi
+- [x] Khó khăn trong việc chỉnh sửa code, thay vì viết code HTML bình thường thì Servlet phải wrap HTML code trong PrintWriter
+- [x] Khó khăn trong việc chèn CSS code vào. Nếu ta sử dụng Bootstrap thì toang luôn
+- [x] Những khó khăn này dẫn đến sự ra đời của JSP
+
 
 
 
