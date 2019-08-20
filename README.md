@@ -49,7 +49,7 @@ Client muốn yêu cầu một thứ gì đó thì phải gửi Request tới Se
 
 ## Practice Section
 - [x] Simple Calculator (Add only)    
-![](https://giphy.com/gifs/hs7oQFhNYPuUFsWDIQ)
+![](https://media.giphy.com/media/hs7oQFhNYPuUFsWDIQ/giphy.mp4)
 
 
 
